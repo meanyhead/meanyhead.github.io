@@ -1,0 +1,198 @@
+body {
+    font-size: 17px;
+    font-family: Georgia, serif;
+    margin: 0px;
+}
+
+p {
+    margin: 0 0 1em 0;
+    line-height: 1.5em;
+}
+
+.torso {
+    max-width: 744px;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+}
+
+main {
+    display: block;
+    margin-top: 2em;
+}
+
+article, section {
+    padding: 1em;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 0px;
+}
+
+h1>a,h2>a {
+    text-decoration: none;
+}
+
+.description h2 {
+    font-size: 12px;
+}
+
+time {
+    font-style: italic;
+}
+
+article time {
+    display: block;
+    margin: 1em 0 0 0;
+    text-align: right;
+}
+
+hr {
+    text-align: center;
+    border: 0;
+    margin: 3em;
+}
+
+hr::after {
+    content: "\2042";
+}
+
+article hr {
+    margin: 1em;
+}
+
+article hr::after {
+    content: "*";
+}
+
+pre {
+    margin-left: 30px;
+    padding: 5px;
+    width: 80%;
+}
+
+code {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+table {
+    border: none;
+}
+
+td {
+    padding-left: 20px;
+}
+
+.torso>header {
+    display: inline-block;
+    padding: 1em;
+    margin-top: 2em;
+}
+
+nav {
+    display: inline-block;
+    padding: 0 1em 1em 1em;
+}
+
+nav a {
+    font-size: 24px;
+    margin-right: 1em;
+}
+
+footer {
+    margin-top: 2em;
+    padding: 1em;
+}
+
+.copyright {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.copyright time {
+    font-style: normal;
+}
+
+article .entry img {
+    display: block;
+    margin: 1em auto;
+    width: 100%;
+}
+
+article .entry img + em {
+    display: block;
+    text-align: center;
+    margin-top: -0.5em;
+    margin-bottom: 2em;
+}
+
+article header h2 {
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0;
+}
+
+article header {
+    margin-bottom: 1em;
+}
+
+.more {
+    display: block;
+    text-align: right;
+}
+
+#paginator {
+    margin-top: 2em;
+    padding: 1em;
+}
+
+#paginator a {
+    font-size: 24px;
+}
+
+.xmirror::before {
+    transform: scale(-1, 1);
+}
+
+.archive-link {
+    display:block;
+    margin: 0 0 1em 0;
+    text-decoration: none;
+}
+
+.archive-link:last-child {
+    margin: 0;
+}
+
+.archive-link h3 {
+    display: inline-block;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0 2em 0 0;
+    padding: 3px;
+}
+
+.archive-link .archive-date {
+    text-align: right;
+}
+
+.archive-link time {
+    display: inline-block;
+    padding: 3px;
+}
+
+.archive-link p {
+    padding: 3px 1em;
+    margin: 1em 0;
+}
+
+blockquote {
+    font-size: 0.9em;
+    margin: 1em 0 1em 3em;
+}

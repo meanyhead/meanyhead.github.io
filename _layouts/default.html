@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width">
+        <title>{{ site.name }}{% if page.title %}: {{ page.title }}{% endif %}</title>
+        <link id="pagestyle" rel="stylesheet" href="{{site.baseurl}}/style.css" />
+        <link id="colorstyle" rel="stylesheet" href="{{site.baseurl}}/color.css" />
+        <meta name="description" content="{{site.description}}"/>
+        <meta name="author" content="{{site.author}}"/>
+        <link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico" />
+        <link rel="author" href="humans.txt"/>
+        <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.baseurl}}/feed.xml" />
+        <link rel="stylesheet" href="{{site.baseurl}}/res/fontello/css/meanyhead.css">
+        <!--[if IE 7]><link rel="stylesheet" href="{{site.baseurl}}/res/fontello/css/meanyhead-ie7.css"><![endif]-->
+    </head>
+
+    <body>
+        <div class="torso">
+            <header>
+                <h1><a href="{{site.baseurl}}/">{{ site.name }}</a></h1>
+            </header>
+            <nav>
+                <a href="{{site.baseurl}}/archive" title="Archive"><i class="icon-archive"></i></a>
+                <a href="{{site.baseurl}}/feed.xml" title="RSS Feed"><i class="icon-rss"></i></a>
+                <a href="http://twitter.com/{{site.author_twitter}}" title="meanyhead on Twitter"><i class="icon-twitter"></i></a>
+            </nav>
+
+            <main>
+
+                {{ content }}
+
+            </main>
+
+            <footer>
+                <p class="copyright">&copy; <time>{{ site.time | date: '%Y' }}</time> {{ site.author }}</p>
+            </footer>
+        </div>
+        <!-- Start of StatCounter Code for Default Guide -->
+            <script type="text/javascript">
+            var sc_project=10856507; 
+            var sc_invisible=1; 
+            var sc_security="d05079da"; 
+            var scJsHost = (("https:" == document.location.protocol) ?
+            "https://secure." : "http://www.");
+            document.write("<sc"+"ript type='text/javascript' src='" +
+            scJsHost+
+            "statcounter.com/counter/counter.js'></"+"script>");
+            </script>
+            <noscript><div class="statcounter"><a title="free hit
+            counter" href="http://statcounter.com/free-hit-counter/"
+            target="_blank"><img class="statcounter"
+            src="http://c.statcounter.com/10856507/0/d05079da/1/"
+            alt="free hit counter"></a></div></noscript>
+        <!-- End of StatCounter Code for Default Guide -->
+    </body>
+
+</html>

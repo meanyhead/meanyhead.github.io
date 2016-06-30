@@ -1,0 +1,39 @@
+---
+layout: post
+title: Milk and Honey
+excerpt: The man from The Lake Committee accompanies us on the boat, and writes down my father’s every word–“I wrote down what you were thinking”–as if somewhere among them is the solution to the lake, how the lake will self-actualize into what the homeowners imagine
+---
+
+![Lake Weeds]({{ site.baseurl }}/res/img/return_of_the_repressed.jpg)
+
+My father, who is driving the car, always refers to California ironically as "The Land of Milk and Honey." When he was assigned to an Air Force base near San Francisco in 1964, it wasn't ironic. Growing up in rural New York, California felt far away enough to really have promise. Life on the base was horrible, but the world around it was brimming with possibility. He was not considered for becoming a pilot because his vision was very bad, and was assigned, with what seems like a sadistic sense of humor, to drafting. His job was to draw precise maps that his astigmatism distorted and blurred. On the interstate I type but do not tweet "Did I first have to mistake a person for not a person to want their recognition?" I want to append "#twitter," but I think this would be as falsely specific as "their" is falsely general.
+
+On car trips I usually take towns for granted. As an American, the genre of American towns blinds me. Their generic elements numb me into an acknowledging incomprehension, like running over lines of text without reading. On this trip to California, towns are a mystery. The problem began with rice. I had the knee-jerk thought I've had every time I've driven though the Central Valley: I can't believe they're growing rice in California, where all the water has to be stored and transported hundreds of miles, and the "drought" turns out to be the normal climactic conditions according to which the last 100 years was an anomaly. The picturesque rice paddies of rainy southeast Asia, I think idiotically, are the way rice *ought* to be grown. I want to say that growing rice in California is a triumph of pure economics, that nothing about it makes sense except economic sense. But who is to say that it's the result of people perfectly in touch with the reality of the market?
+
+The road to Clearlake is well-maintained but seems to go nowhere. I haven't looked at a map of our route, so this feels possible. It appears to be a three-lane highway winding aimlessly through rolling Californian hills. My father says triumphantly, as if deciphering a treasure map, that these mountains are not the Coast Range, but something else. The ground is sloughing off into ravines; soft beige earth is exposed on nearly-vertical eroded slopes. The mountains do not seems permanent. The job we were hired to do, dredging 50 years of sediment from Hidden Valley Lake--not Clearlake, but something else--begins to make sense.
+
+The city of Clearlake is on a reservoir called Clearlake--"the biggest lake in California," its aging welcome signs proclaim--that keeps from spilling down the mountains I don't know how. Why does this town exist? What economically has ever sustained this place? The novelty of travel, without the wish-fulfillment of maps and itineraries, has become pure disbelief.
+
+I find myself squinting in the sun as we drive west. I flash on the furrowed brow of Wendy on *Billions*. A very compelling brow. She seems to hold the world in place. Unlike mine, her disbelief comes with the clarity of judgement.
+
+My father gets furious about anything to do with space exploration because it's a waste of resources that could be put to use on earth. Unless you share it, the more real a person's anger is, the more fake it is. I wish I could say I'm exhausted by NASA-hate for some reason other than "I've heard it before," as if identifying a genre is reason enough to dismiss it.
+
+Later on, my friend tells me how the latest contestants on *The Bachelorette* have answered interview questions. One says that the top item on his bucket list is to "take a trip to space to experience the process and snap some epic selfies!" A retirement community in Florida says that its "rolling hills, lakes and rivers, and an array of wildlife create the perfect backdrop."
+
+On the highway to Hidden Valley Lake we pass the Oasis Cafe. The sunny murals on its walls are sun-bleached nearly beyond recognition, probably painted in the 70s heydey of Clearlake, which the residents of Hidden Valley Lake now refer to as "a third-world country."
+
+Like wealthier Marin County 50 miles away, the landscape of green rolling hills and oaks looks idyllic until you discover it's the perfect habitat for ticks. A short drive through blood-sucking paradise brings us from our motel in Clearlake in which drunk men yell at each other to the grocery store just beyond Hidden Valley Lake's key-carded gates, out of which walks a smiling woman carrying a salad.
+
+In *Nemesis*, Miss Marple sympathizes with the killer, who in effect lives with the consequences of the love (for someone else) she deprives her victim of. Having hidden the body of her beloved on her property, she "just suffered; went on suffering, year after year," while her victim "escaped what she had to suffer."
+
+Across the shopping center, a homeless man smokes and talks to himself in front of a coffee shop. The smiling woman leans over the coffee shop counter and asks the barista "is he safe?"
+
+We are here to sample the sediment in the lake, before proceeding, eventually, to remove it. The look that people here give us--is that how a baby looks at you while you change its diaper? Hidden Valley Lake's privatized government wants us to do our job, but they want a lot of information in the process. They enjoy the process. They want to know from what precise locations we are planning to sample the sediment. When we've finished sampling, they are very interested in the sediment's composition. They are fascinated by what's accumulated down there. The homeowners, in turn, demand from the Lake Commitee the names of all the aquatic weeds around their goose-shit-encrusted boat docks. The man from The Lake Committee accompanies us on the boat, and writes down my father's every word--"I wrote down what you were thinking"--as if somewhere among them is the solution to the lake, how the lake will self-actualize into what the homeowners imagine.
+
+He tells us proudly that tomorrow the weeds will be treated, an aspirational biannual genocide. The boat that takes us around the lake gets its engine clogged with plants a dozen times. "We have a tail," jokes the head of security, who is piloting it.
+
+The town, which embellishes its shores with sandy beaches by bulldozer, challenges my notions of what's natural. Despite working in "environmental restoration," I rarely see the work that creates our stage sets of Nature.
+
+Have I ever learned anything? Last year, 11,000 homes (nobody ever says houses) burned down near Hidden Valley Lake. The fire nearly reached beyond their gates. A few scorched trees can be seen from the lake. Their community center (they don't have a city hall because it's not a municipality) has stacks of Fire Wise brochures, diagramming how to keep your home from burning. On NPR, the mayor of Miami Beach says that they are "acknowledging and accepting global warming" by building up their streets by 3 feet. Is everything denial except giving up? When we return home, the air is full of smoke, that familiar smell of summer wildfire, but then we drive out of the cloud of smoke. Fire prevention crews are doing a controlled burn.
+
+![Hidden Valley Lake]({{ site.baseurl }}/res/img/visible_valley_lake.jpg "Visible Valley Lake")

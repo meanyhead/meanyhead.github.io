@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<!-- Show last 5 posts here -->
+{% for post in paginator.posts %}
+	<article>
+        <header>
+            <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
+        </header>
+        {%if post.epigraph %}
+        <div class="epigraph">
+            {{ post.epigraph }}
+            {%if post.epigraphattribution %}
+            <div class="attribution">&mdash;{{ post.epigraphattribution }}</div>
+            {% endif %}
+        </div>
+        {% endif %}
+		<div class="entry">
+            {{ post.content }}
+        </div>
+        <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%-d %B %Y"}}</time>
+	</article>
+    {% if post != paginator.posts.last %}
+        <hr/>
+    {% endif %}
+{% endfor %}
+
+
+<div id="paginator">
+    {% if paginator.next_page %}
+            <a href="{{site.baseurl}}/page{{paginator.next_page}}">
+            <i class="icon-back-in-time"></i></a>
+    {% endif %}
+
+    {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+                <span class="more">
+                <a href="{{site.baseurl}}/">
+                <i class="icon-back-in-time xmirror"></i></a>
+                </span>
+        {% else %}
+                <span class="more">
+                <a href="{{site.baseurl}}/page{{paginator.previous_page}}">
+                <i class="icon-back-in-time xmirror"></i></a>
+                </span>
+        {% endif %}
+    {% endif %}
+</div>

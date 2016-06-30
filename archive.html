@@ -1,0 +1,29 @@
+---
+layout: page
+title: Archive
+---
+    <section>
+        {% for post in site.posts %}
+            {% assign stylehtmlpre = ' ' %}
+            {% assign imageurl = ' ' %}
+            {% assign stylehtmlpost = ' ' %}
+            {% assign images = post.content | split:"<img " %}
+            {% for image in images %}
+                {% if image contains 'src' %}
+                    {% assign html = image | split:"/>" | first %}
+                    {% assign imageurl = html | split:'src="' | last %}
+                    {% assign imageurl = imageurl | split:'"' | first %}
+                    {% assign stylehtmlpre = 'style="background: url(' %}
+                    {% assign stylehtmlpost = ') no-repeat scroll center center / cover;"' %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
+            {% assign excerptcon = post.excerpt | split:'</p>'| first %}
+            {% assign excerptcon = excerptcon | split:'<p>' | last %}
+            <a href="{{site.baseurl}}{{ post.url }}" class="archive-link" {{ stylehtmlpre }}{{ imageurl }}{{ stylehtmlpost }}>
+                <h3>{{ post.title }}</h3>
+                <p>{{ excerptcon }}.</p>
+                <div class="archive-date"><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%-d %B %Y"}}</time></div>
+            </a>
+    	{% endfor %}
+    </section>

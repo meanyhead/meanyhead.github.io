@@ -1,0 +1,32 @@
+body {
+    color: #bb9;
+    background-color: #111;
+}
+
+article, section {
+	background-color: #220;
+}
+
+pre, code {
+    background-color: rgba(0,0,0,0.33);
+}
+
+a {
+    color: #c03;
+}
+
+a:hover {
+    color: #f04;
+}
+
+.archive-link, .archive-link h3, .archive-link time {
+	background-color: #240009;
+}
+
+.archive-link p {
+	color: #bb9;
+}
+
+.archive-link:hover p {
+    background-color: #240009;
+}

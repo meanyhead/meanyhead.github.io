@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article>
+        <header>
+            <h2>{{ page.title }}</h2>
+        </header>
+        {%if page.epigraph %}
+        <div class="epigraph">
+            {{ page.epigraph }}
+            {%if page.epigraphattribution %}
+            <div class="attribution">&mdash;{{ page.epigraphattribution }}</div>
+            {% endif %}
+        </div>
+        {% endif %}
+        <div class="entry">
+            {{ content }}
+        </div>
+        <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%-d %B %Y"}}</time>
+</article>
