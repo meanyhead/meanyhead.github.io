@@ -7,7 +7,7 @@ Tom Hiddleston plays a better actor than he is. That might mean he's a good acto
 
 I can't think of a better metaphor for romantic love than working on a secret music video. I can understand Hiddleston, if he is not a good actor playing a bad actor, not wanting to talk about "work," as he refers to his relationship with Swift to an interviewer. Work is too personal.
 
-Jean-Luc Picard is the perfect Englishman because in his heart that he never talks about, he is French. Or perhaps Patrick Stewart is an Englishman playing a Frenchman playing an Englishman. Or in the future the British Isles and France have merged into a bunch of English-speaking, grape-revering, earl-gray-drinkers? Was one pro-Brexit minister thinking of Captain Picard when he said that he hoped to one day to return to the EU, under different circumstances?
+Jean-Luc Picard is the perfect Englishman because in his heart that he never talks about, he is French. Or perhaps Patrick Stewart is an Englishman playing a Frenchman playing an Englishman. Or in the future the British Isles and France have merged into a bunch of English-speaking, grape-revering, Earl Gray enthusiasts? Was one pro-Brexit minister thinking of Captain Picard when he said that he hoped to one day to return to the EU, under different circumstances?
 
 ![Picard Laughing At His Handiwork]({{ site.baseurl }}/res/img/picard-lol.jpg "Picard Losing Face")
 
