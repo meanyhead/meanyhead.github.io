@@ -33,6 +33,14 @@ h1 {
     margin: 0px;
 }
 
+a {
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 h1>a,h2>a {
     text-decoration: none;
 }
