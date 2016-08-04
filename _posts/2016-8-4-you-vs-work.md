@@ -31,4 +31,4 @@ When people say something is "my passion", they are bad at that something. The d
 
 One doesn't have to be bad at one's stated passion. One can be good at something that is bad, usually bad for oneself. For example, I am good at speaking in contradictions, but the contradictions are bad, and the habit of speaking in them, exasperating.
 
-To go anywhere one has to go nowhere. Do not follow any of the links.
+To go anywhere one has to go nowhere. Don't follow the links!
