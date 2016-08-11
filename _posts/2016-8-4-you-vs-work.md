@@ -1,6 +1,7 @@
 ---
 layout: post
 title: you vs work
+excerpt: *You* not *u*. *Y*-*o*-*u*.
 ---
 
 ["This is What You Came For"](https://www.youtube.com/watch?v=kOkQ4T5WO9E) drags *you* out into its unspoken syllables.
