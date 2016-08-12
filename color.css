@@ -1,5 +1,5 @@
 body {
-    color: #446;
+    color: #335;
     background: linear-gradient(to bottom right, #886, #ff807e);
 }
 
@@ -24,13 +24,13 @@ a:hover {
 }
 
 .archive-link, .archive-link h3, .archive-link time {
-	background-color: #de917f;
+	background-color: #BBD;
 }
 
 .archive-link p {
-    color: #446;
+    color: #553;
 }
 
 .archive-link:hover p {
-    background-color: #de917f;
+    background-color: #BBD;
 }
