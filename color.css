@@ -1,10 +1,10 @@
 body {
-    color: #bb9;
-    background-color: #111;
+    color: #446;
+    background: linear-gradient(to bottom right, #886, #ff807e);
 }
 
 article, section {
-	background-color: #220;
+	background-color: #DDB;
 }
 
 pre, code {
@@ -12,7 +12,7 @@ pre, code {
 }
 
 a {
-    color: #c03;
+    color: #803;
 }
 
 article a {
@@ -20,17 +20,17 @@ article a {
 }
 
 a:hover {
-    color: #f04;
+    color: #000;
 }
 
 .archive-link, .archive-link h3, .archive-link time {
-	background-color: #240009;
+	background-color: #de917f;
 }
 
 .archive-link p {
-	color: #bb9;
+    color: #446;
 }
 
 .archive-link:hover p {
-    background-color: #240009;
+    background-color: #de917f;
 }
