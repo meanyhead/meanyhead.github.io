@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Down Shit Creek Without a Rudder
+title: Down and Then Out
 excerpt: I don't want to insult you by assuming that you haven't heard from more people than you'd prefer that all stories are about producing stories, and I want to write a story that is told through bowel movements.
 ---
 
