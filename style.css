@@ -146,9 +146,12 @@ article header {
     margin-bottom: 1em;
 }
 
+.less {
+    float: left;
+}
+
 .more {
-    display: block;
-    text-align: right;
+    float: right;
 }
 
 #paginator {
