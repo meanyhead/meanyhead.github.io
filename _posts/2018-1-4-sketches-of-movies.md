@@ -11,7 +11,7 @@ The night I saw *The Last Jedi* I had a dream as red as that movie. It concluded
 
 ---
 
-![Done Shirt Geek]({{ site.baseurl }}/res/img/vampireinthesun.jpg)
+![A Vampire in The Sun]]({{ site.baseurl }}/res/img/vampireinthesun.jpg, "A Vampire in The Sun")
 
 Whenever I recommend something, I'm probably just saying that the disorientation has dividends. I want to say it's more alchemical than that. A good movie shouldn't just give you back the time spent watching it, but make the conservation of time illogical. The only things about *The Last Jedi* not in the realist mode are the color red, and cutting back and forth between shot and reverse shot of Rey and Kylo, who reside in different scenes. Montage is magic. Each episode of *Endeavour* begins with a dense, lyrical montage, which it then spends an hour and a half sucking the life out of. Detectives are basically vampires, and Morse particularly so. You pity how helpless he is to not be a killjoy. He has the foot-shooting tendency to take the moral high ground even when questioning people. His foot is perpetually in his mouth, it's bleeding, and he's sucking on it. Maybe murder mysteries have always been flat-footed prose chasing after poetry. The rabbit pulled from the hat of British mysteries is the mean material of the murder's gothic symbolism. The genre's interest is in the suggestive ellipses released by the many fissions of meaning and fact throughout, until finally the solution drops, heavy and depleted.
 
