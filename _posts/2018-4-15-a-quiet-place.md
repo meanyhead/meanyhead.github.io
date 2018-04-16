@@ -3,7 +3,7 @@ layout: post
 title: A Quiet Place
 ---
 
-Sound-murdering monsters inherting the Earth in order to give one family a pretense to eat off of kale leaves and wear heather wool doesn't seem far-fetched. I've been to Maine, I've seen the L.L. Bean catalogue, and I myself, though technically my ancestors are continental Catholics, came to *A Quiet Place* to escape the noise of weed-whackers. I said this to the person who gave my ticket, which was pretty much the noise of a battery-operated toy in a picturesque forest. Where are we? New England with corn?
+Sound-murdering monsters inherting the Earth in order to give one family a pretense to eat off of kale leaves and wear heather wool doesn't seem far-fetched. I've been to Maine, I've seen the L.L. Bean catalogue, and I myself, though technically my ancestors are Continental Catholics, came to *A Quiet Place* to escape the noise of weed-whackers. I said this to the person who gave me my ticket, which was pretty much the noise of a battery-operated toy in a picturesque forest. Where are we? New England with corn?
 
 Did the monsters take all the birth control? In the sound apocalypse, is to not have a child to lose hope in the survival of the species? Invite death with a noisy baby or wait around to die?
 
