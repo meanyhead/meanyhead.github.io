@@ -7,7 +7,7 @@ Sound-murdering monsters inherting the Earth in order to give one family a prete
 
 Did the monsters take all the birth control? In the sound apocalypse, is to not have a child to lose hope in the survival of the species? Invite death with a noisy baby or wait around to die?
 
-We all need a little digital detox, but this is an excessive way to blackmail your son into going on a fishing trip with you, even for a parent. We all wanted a waterfall to yell behind, but this kid wants to yell precisely not with his dad. Likewise, we've all wanted not to hear sometimes, and nobody then wants her dad to build a hearing aid in order to discover all the ways in which she's fucking up.
+We all need a little digital detox, but this is an excessive way to blackmail your son into going on a fishing trip with you, even for a parent. We've all wanted a waterfall to yell behind, but this kid wants to yell precisely not with his dad. Likewise, we've all wanted not to hear sometimes, and nobody then wants her dad to build a hearing aid in order to discover all the ways in which she's fucking up.
 
 Have they been stuck at their Airbnb for three years?
 
