@@ -37,4 +37,4 @@ Kelela's lyrics of seduction-as-inevitability in "Take Me Apart" sound strangely
 
 My friend's husband has congenital audiophilia. Everyone in his family demands excellence in audio equipment. His father bought a very large set of speakers and, years later, died. Last summer, the fires were threatening to get close to their home, where at the time only his brother and his girlfriend were living, and they were ordered to evacuate. They called his mother, whose first response was "what is the plan for the speakers?" Six months later, he floated the idea to my friend of moving their television from their bedroom to in front of the fireplace. He, like me, grew up watching *Star Trek: The Next Generation*, in which the the viewscreen on the bridge has a disorienting double purpose: viewing the space in front of the ship, and viewing the transmitted image from another ship's bridge. It was always a mystery to me whether the screen was a screen or a window.
 
-![BodyTime]({{ site.baseurl }}/res/img/bodytime.jpg)
+![BodyTime]({{ site.baseurl }}/res/img/bodytime.jpg "BodyTime")
