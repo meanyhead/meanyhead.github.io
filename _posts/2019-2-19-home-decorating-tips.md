@@ -1,0 +1,26 @@
+---
+layout: post
+title: Home Decorating Tips
+---
+
+On Instagram I saw an ad for I don't know what that showed a woman in coveralls covering a mirror sliding door with an adhesive sheet of chalkboard. "Smooth out the bubbles from the top down," advised the ad, and it looked like she was installing an opaque, black screen protector on a phone the size of herself. I found myself wondering what a person like the one in the ad would write or draw on the chalkboard. I once knew a family who had a chalkboard in their kitchen, and it was full of each member of the family's promises to the family, binding them to their optimisms. There were elements of life plans as well as weekly chore schedules. As a member of a family who never trained any of our dogs, I felt like Elizabeth Jennings looking at paintings.
+
+I no longer know this family because of my family, but I never really wanted to know them. A falling out in a work relationship that was more than a work relationship (like every work relationship) has been redacted, so that this isn't something I should be talking about, except that nobody who would care will ever read this. Through this game of chicken between straight men, there appeared to be two sides, and on the other side was this family.
+
+Before all this, I housesat for them once, and with them gone, the curiosity I had about their lives mostly evaporated. But going from visiting a place to living in a place means going from eavesdropping on to overhearing objects. The spines of her books staring at me as I lay in their bed, I found myself helplessly speculating about the life of the house's matriarch:
+
+> A punk with a lot of younger friends, she makes her life with her Midwestern engineer husband bearable by being involved in the radicalism of twentysomethings. She uses her and her husband's money to fund nonprofits and direct actions, and the aura of eventlessness of the heterosexual nuclear family is a place for the messy lives of activists to rest. She in turn feels that she isn't dead, like the comforting abyss of her husband's MIT education where she can rest.
+
+> Her two children are an eerie reproduction of mother and father--she highly socialized, witty, and the star of high school theater, he quiet, serious, and aspiring to be a writer. These aspirations are taken very seriously, put up on the chalkboard. They have had, to their mother, Passions and Paths from the age of 14. One time we all took a hike in the snow on a foggy day, and the son got far enough ahead of us that we couldn't see him anymore. His mother, always characterizing her children, said with an wistful, exasperated laugh that "he's always been a child of the fog." It was like she was painting with her finger on a fogged window.
+
+In other words, I can't imagine a married woman's life without thinking of her husband as the opposite of a mirror, because that's what my devotion to my childhood friend, who smoothly went from aeronautical dreams passed down from his North Dakotan grandfather to studying at MIT, felt like.
+
+In *Arrival*, it becomes apparent that Amy Adams' character has been more or less writing on a whiteboard to her unconceived child this whole time, not the aliens in the fog behind the screen of the cleanest movie theater of all time, but a pre-pre-fetus who appears as intrusive visions, a.k.a. memories, that feel like a loss or a post-apocalypse, but turn out to be the bright future of humanity. After all, she wrote "HUMAN" on the whiteboard, like the first item on her wish list to Santa.
+
+Personally, I never want to intend a thought again, like a drug addict, but on the other hand I've become addicted to writing about (or over) my self-regard. Publishing what feel like heinous acts of self-presentation brings a cycle of shame, when I consider all the ugly implications of what I've written, and imagine, unbidden, the thoughts of the three or four people who might read it. It's clear that embarrassment is addictive, and it's unclear whether embarrassments are additive. Do I yell at myself about things I've written on the internet instead of yelling at myself about things I've said in person, or do I just yell at myself more?
+
+Last month I tried to write an essay for a magazine, which was embarrassing. The essay repeated itself and meandered, at once anxious to tie everything to a thesis, like academic writing, and full of nonsequitors. The essay was supposed to be about how a particular director liked to sidestep the embarrassments of his youth by very subtly making fun of them. Writing scripts that hewed close to his life, his authorial voice, my argument went, became the way he wanted to be regarded by someone else.
+
+Obviously I was projecting, but on the other hand, what I thought that director was trying to do--to sneakily become graceful--was exactly what I haven't been doing. I decided that the director had come to the conclusion you can't convince anyone, you can only make them laugh. As a cover-up of more urgent emotional turmoil, I confided in person recently that I've been embarrassing myself on the internet. But first, my alibi was simply "nothing!"
+
+![self-adhesive chalkboard]({{ site.baseurl }}/res/img/self-adhesive-chalkboard.jpg)
