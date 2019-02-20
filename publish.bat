@@ -1,4 +1,6 @@
-for /f %%i in ('date /t') do set date=%%i
-for /f %%i in ('time /t') do set time=%%i
+date /t > publish_date.txt
+time /t > publish_time.txt
+set /p DATEVAR=<publish_date.txt
+set /p TIMEVAR=<publish_time.txt
 git add .
-git commit -m "auto %date% %time%"
+git commit -m "auto %DATEVAR% %TIMEVAR%"
