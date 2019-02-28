@@ -26,6 +26,7 @@ During the last straightforwardly romantic relationship I was in, I visited a fr
 > That is
 > 
 > Death ground.
+>
 > 
 > 
 > When there is no way out,
@@ -33,6 +34,7 @@ During the last straightforwardly romantic relationship I was in, I visited a fr
 > You are on
 > 
 > Death terrain.
+>
 >
 >
 > On death ground,
