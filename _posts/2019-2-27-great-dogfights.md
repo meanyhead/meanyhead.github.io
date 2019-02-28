@@ -53,4 +53,4 @@ I watched a video of an octopus reaching over with its tentacle and tapping a sh
 
 I've heard this particular apocalypse called octopia, in which octopuses inerhit the earth. Octopia is what happens if the you are not the one you thought you were, once separated from your asexual reproduction, or if, having worked through all your cognitive distortions, you discover you don't recognize yourself at all. It's not this paragraph.
 
-![octopus trap]({{ site.baseurl }}/res/img/octopus-trick.jpg)
+![octopus trick]({{ site.baseurl }}/res/img/octopus-trick.jpg)
