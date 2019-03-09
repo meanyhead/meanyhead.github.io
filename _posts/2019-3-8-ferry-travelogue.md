@@ -20,8 +20,11 @@ Maybe with this much water, he speculates over the phone, there will be fewer fi
 Fill in the blank. In Washington, North Carolina there's a Rube Goldberg machine of a sculpture that's supposed to teach audiences that water goes down, and in Raleigh, an installation on a fence that spells out in balloons "logic will let you \_\_\_\_" (the last word of balloons have popped or floated away).
 
 Multiple choice. Water:
+
 A. is warmer before you emerge.
+
 B. is the same temperature whether you're in it or not.
+
 C. feels cold only because of its velocity relative to you, an object sharing an inertial frame with the bedrock.
 
 Back on the boat, I recall a friend reminding me that, like every Luca Guadagnino movie, *I Am Love* ends with death plus a swimming pool. This isn't quite true: *Call me By Your Name* begins with bringing up inanimate body parts from an ocean. Reassembled, the bodies are marionetted to flirt in various pastoral bodies of water. *Suspiria* I have not seen, but there's a scene in the original of swimming in an enormous indoor pool (every dance academy needs one), and by this point in the movie, the lead and her friend, shot long and very small in the frame, feel doomed.
