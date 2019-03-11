@@ -1,4 +1,5 @@
-git add .
+git add . > publish_add_output.txt
+
 date /t > publish_date.txt
 time /t > publish_time.txt
 set /p DATEVAR=<publish_date.txt
