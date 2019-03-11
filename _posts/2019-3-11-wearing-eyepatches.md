@@ -3,9 +3,9 @@ layout: post
 title: Wearing Eyepatches
 ---
 
-![Fred Looking]({{ site.baseurl }}/res/img/fred-looking.jpg)
-
 If there's one thing that marks somebody as nuts, it's laughing loudly to nobody in public. If somebody is with somebody, they might gesture at such a person, and laugh quietly, perhaps making a "craaazy" gesture with their hand. Whenever I find myself laughing alone, it's not, as in nature documentaries and with salad, a confirmation that some body is enjoying her body, but at memories of unbearable things people have said, which, now that I'm not in their presence, I find myself flying over, like the Midwest. But still, my own laughter feels unbearable; I'm longing for someone to make eye contact with, or now that the scene has passed, to have made eye contact. I feel that we would have been above the fray, as if we would not have then become the fray.
+
+![Fred Looking]({{ site.baseurl }}/res/img/fred-looking.jpg)
 
 Films can make eye contact without requiring us to look away from the scene framed by the glance, but sharing a laugh is still tricky. Framing a scene as comedy is cheating, because nothing is between you if it was already there. The paraideal moment of bearing together is looking to the other and finding them laughing at almost the same thing. It can only be almost, and only almost ideal, and if it were exactly, that might be worse. In his three 90s films, Whit Stillman is trying to create in-jokes with camera and microphone, hoping we'll almost laugh with him at the unbearable conversations of his remembered youth.
 
