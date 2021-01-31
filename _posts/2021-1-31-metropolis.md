@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fall in The Metropolis
+title: Summer Before Fall
 ---
 
 The advertising campaign for the Metropolis--what to call it? "Apartment complex" would be a class lower than the one it intended to target, when it was conceived, before the pandemic--depicted future residents as palimpsests, or more accurately, green screens. Lush flora, tropical birds, clear night skies, skyscrapers, and the Hollywood sign showed through their bodies. "Los Angeles Without Boundaries" read one window-sized poster (the building was all windows), and another, "Your Oasis in the City."
@@ -52,3 +52,5 @@ At work, the lead croissant baker came in just after I had scored the loaves.
 "Something that can't be undone," I said, smiling.
 
 "I miss it," she said.
+
+![pole tree pole tree]({{ site.baseurl }}/res/img/pole_tree_pole_tree.jpg)
