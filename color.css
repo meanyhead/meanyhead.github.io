@@ -1,10 +1,10 @@
 body {
-    color: #335;
-    background: linear-gradient(to bottom right, #886, #ff807e);
+    color: #3b3b3b;
+    background: linear-gradient(to bottom, #e3d2af, #f9c7d5, #d0d2f9, #a6dfdf, #bcddbc);
 }
 
 article, section {
-	background-color: #DDB;
+	/*background-color: #DDB;*/
 }
 
 pre, code {
