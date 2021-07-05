@@ -23,4 +23,4 @@ Surrounded by unreconstructed Atheists, my position--boring to many but incompre
 
 All my mother's horizontal escapes--to other dwellings, other cities, other men--were, in the logic of the garden, what she had to pay for with descents into maritally-supported depression and one ascent to a mountain from which she escaped the only way that's oneirically complete.
 
-![After every sweet Hi there's a bitter Bye]({{ site.baseurl }}/res/img/sweet_hi_bitter_bye.jpg)
+![Maple tree seen through the shadow it casts on a skylight]({{ site.baseurl }}/res/img/skylight.jpg)
