@@ -45,7 +45,7 @@ The plaque on the Pioneer probe depicts a man and a woman, both devoid of pubic 
 
 "Sardonic" is alleged to derive from the ancient Greek belief that, to quote the Online Etymology Dictionary, "eating a certain plant they called sardonion (literally 'plant from Sardinia,') caused facial convulsions resembling those of sardonic laughter, usually followed by death."
 
-At work, the lead croissant baker came in just after I had scored the loaves.
+At work, the lead croissant baker came in just after I had scored the baguettes.
 
 "I like slashing them," she said.
 
