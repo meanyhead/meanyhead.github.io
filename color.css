@@ -1,10 +1,6 @@
 body {
     color: #3b3b3b;
-    background: linear-gradient(to bottom, #e5d2b9, #eccfbc, #f1ccc3, #f2cbcf, #ecccdd, #e1cee8, #d6d1ed, #ccd4f0, #c2d6f0, #b7d9ed, #b1dce4, #b2ddd8, #bbdccb, #c7dac0, #d3d7bb, #dcd4b8, #e5d2b9);
-}
-
-article, section {
-	/*background-color: #DDB;*/
+    background: linear-gradient(to bottom, #ddd2cc, #dfd2cf, #ded1d3, #dcd2d8, #d8d2db, #d5d3dd, #d1d4dd, #ced5dd, #cbd6dc, #c9d7d9, #cad7d5, #ccd7d1, #d0d6ce, #d4d5cc, #d7d4cb, #dad3cb);
 }
 
 pre, code {
@@ -12,11 +8,11 @@ pre, code {
 }
 
 a {
-    color: #632;
+    color: inherit;
 }
 
 article a {
-	color: inherit;
+    color: inherit;
 }
 
 a:hover {
@@ -24,13 +20,14 @@ a:hover {
 }
 
 .archive-link, .archive-link h3, .archive-link time {
-	background-color: #BBD;
+    background-color: #00ff00;
 }
 
 .archive-link p {
-    color: #553;
+    color: inherit;
 }
 
 .archive-link:hover p {
-    background-color: #BBD;
+    background-color: #00ff00;
+    color: black;
 }
