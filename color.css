@@ -1,6 +1,7 @@
 body {
     color: #3b3b3b;
-    background: linear-gradient(to bottom, #f5ccb3, #fcc9bd, #fec6cc, #f6c7df, #e8cbee, #d9cff6, #cbd3fa, #bbd7fb, #aadbf7, #a0dfeb, #a2e0da, #aedfc9, #c0dcba, #d0d9b1, #ded5ad, #ead1ae);
+    background-color: #edd0ae;
+    /*background: linear-gradient(to bottom, #f5ccb3, #fcc9bd, #fec6cc, #f6c7df, #e8cbee, #d9cff6, #cbd3fa, #bbd7fb, #aadbf7, #a0dfeb, #a2e0da, #aedfc9, #c0dcba, #d0d9b1, #ded5ad, #ead1ae);*/
 }
 
 pre, code {
