@@ -4,8 +4,7 @@ layout: default
 
 <!-- Show last 5 posts here -->
 {% for post in paginator.posts %}
-    {% increment number %}
-	<article id="{{ number }}">
+	<article id="{% increment number %}">
         <header>
             <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
         </header>
