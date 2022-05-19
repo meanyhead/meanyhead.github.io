@@ -7,7 +7,7 @@ If you've ever marinated meat in pineapple juice, this quesiton will make sense:
 
 When I talked about being depressed, he would insist that he was depressed, too. I had another friend who was proud of her curly hair. "Curly hair like mine," I would say to her. "No, that's wavy," she would say, "you have wavy hair."
 
-Now, it's hard to blame a different friend for saying that she, too, is rabid about politics. She demonstrates her rabidity to me. You don't want this, I want to tell her. It's ugly. I don't want you to want this, in other words. I don't want everything I write to be in reference to a multitude of unnamed friends. The blood comes to the surface, this surface, here, and this is preferable to deleting it all, every friend.
+Now, it's hard to blame a different friend for saying that she, too, is rabid about politics. She demonstrates her rabidity to me. You don't want this, I want to tell her. It's ugly. I don't want you to want this, in other words. I don't want to screech at my aunt about covid nihilism. I don't want everything I write to be in reference to a multitude of unnamed friends. The blood comes to the surface, this surface, here, and this is preferable to deleting it all, every friend.
 
 I have a friend who went to film school who recently told me that she has has no visual memory. I remember her talking about how she wrote undergraduate film essays by keeping the DVD queued up, so she could flip around to find the scenes she was thinking of. Is it possible to know what anyone means by being able to recall images?
 
