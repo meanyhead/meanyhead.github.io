@@ -3,7 +3,7 @@ layout: post
 title: Slipcover
 ---
 
-If you've ever marinated meat in pineapple juice, this quesiton will make sense: If you eat too much pineapple, does it digest you? Once, my friend (who had a soft belly) hugged our professor. He reported back: "His belly. It's hard, like a walnut!"
+If you've ever marinated meat in pineapple juice, this question will make sense: If you eat too much pineapple, does it digest you? Once, my friend (who had a soft belly) hugged our professor. He reported back: "His belly. It's hard, like a walnut!"
 
 When I talked about being depressed, he would insist that he was depressed, too. Another friend was proud of her curly hair. "Curly hair like mine," I would say to her. "No, that's wavy," she would say, "you have wavy hair." She tells me she likes her hair because it makes her different.
 
