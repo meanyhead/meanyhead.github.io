@@ -9,7 +9,7 @@ When I talked about being depressed, he would insist that he was depressed, too.
 
 Now, it's hard to blame a different friend for saying that she, too, is rabid about politics. She demonstrates her rabidity to me. You don't want this, I want to tell her. It's ugly. I don't want you to want this, in other words. I don't want to screech at my relatives about capitalism. I don't want everything I write to be in reference to a multitude of unnamed friends. The blood comes to the surface, this surface, here, and this is preferable to deleting it all, every friend.
 
-I have a friend who went to film school who recently told me that she has has no visual memory. I remember her talking about how she wrote undergraduate film essays by keeping the DVD queued up, so she could flip around to find the scenes she was thinking of. Is it possible to know what anyone means by being able to recall images?
+I have a friend who went to film school who recently told me that she has has no visual memory. I remember her talking about how she wrote undergraduate film essays by keeping the DVD queued up, so she could skip around to find scenes.
 
 I've just moved, and I'm looking for a couch. The free couches on craigslist, I tell her, are too ugly. She tells me to cover them with a pretty fabric. I look at a couch. I don't want to imagine that washed-out 80s plaid underneath, I think. "Slipcovers exist for a reason," she says. I used to have one on the couch I used to have. It was burgundy. It hid a wine stain. "That was a borscht stain, that I left there," she corrects me.
 
