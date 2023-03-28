@@ -9,7 +9,7 @@ Bed bugs can be seen if you squint, or if not, the story I heard of bedbugs maki
 
 I keep saying my mind is a sieve--no, I heard someone say someone else's mind is a sieve, and have since repeated it to myself, unbeknownst to anyone--but maybe it's a black hole. One by one, several people become one; many memories become one memory. Faintly I remember having mixed up some memories, but that could easily be one memory become general, so that each memory feels like it could be another memory. I said recently that in order to write fiction one has to become fictional, a character who writes fiction, but it's equally tedious to be factual in order to write facts.
 
-A false bee hovers near my knee, its wings moving so fast that they appear to be still (I assume, in the voice of David Attenborough). More stationary than an actor playing a corpse, it looks stuck. I could move my knee at any time, but I'm fascinated by its noncommital commitment to me.
+A false bee hovers near my knee, its wings moving so fast that they appear to be still. More stationary than an actor playing a corpse, it looks stuck. I could move my knee at any time, but I'm fascinated by its noncommital commitment to me.
 
 I feel jealous of those whose blood attracts vermin, vermin who sense there is something good to eat there. Once, a Lyme-disease-carrying tick graced my back, but the bullseye never appeared. I was just lucky that my parents were made paranoid by the tick's magnificent engorgement. They tried to pull it off me, but as soon as it was touched it dropped, like a ripe fruit. Or maybe there was a rash? I see a scene I could never have seen, my torso exposed for a swim in a lake. I see the red concentric circles and I don't.
 
